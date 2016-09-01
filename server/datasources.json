@@ -1,0 +1,11 @@
+{
+  "mongodb": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "database": "todoList",
+    "password": "900103",
+    "name": "mongodb",
+    "user": "zhunian",
+    "connector": "mongodb"
+  }
+}
